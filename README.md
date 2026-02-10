@@ -1,2 +1,2 @@
 # python-basics-1
-This is my python repository in this I have practiced some basics concepts of python language
+This is my python repository in this I have practiced some fundamental concepts of python language
